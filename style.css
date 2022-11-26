@@ -1,0 +1,93 @@
+
+ 
+/*bagian header*/
+.wrap .header{
+	background: grey;
+	/*height: 50px;*/
+	padding: 2px 10px;
+	color: blue;
+	text-align: center;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: yellowgreen;
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 20px;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian informasi*/
+.wrap .informasi{
+	background: wheat;
+	float: left;	
+	width: 25 auto;
+	height: 100 auto;%;
+	text-align: left;
+}
+ 
+.wrap .content{
+	background: wheat ;
+	float: left;
+	height: 100 auto;
+	width: 25 auto;
+	text-align: left;
+}
+ 
+.wrap .footer{
+	background: blue;
+	height: 100%;
+	padding: 10px;
+	color: red;
+}
+
+/*bagian diskripsi*/
+.wrap .deskripsi{
+	background: wheat;
+	float: left;	
+	width: 25 auto;%;
+	height: 100%;
+}
+.wrap .profil{
+	background: wheat;
+	float: left;	
+	width: 25 auto;%;
+	height: 100 auto;%;
+	text-align: left;
+}
+.wrap .kesehatan{
+	background: wheat;
+	float: left;	
+	width: 25 auto;%;
+	height: 100 auto;%;
+	text-align: left;
+
+	}
+.wrap .kontak{
+	background: wheat;
+	float: left;	
+	width: 25 auto;%;
+	height: 100 auto;%;
+	text-align: left;
+}
+
